@@ -21,10 +21,6 @@ export PATH=$PATH:/Applications/Julia-0.3.0.app/Contents/Resources/julia/bin
 
 test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shell_integration.bash"
 
-
-
-#export PATH=$HOME/bin/TransDecoder-2.0.1:$PATH
-export PATH=$HOME/w/TransDecoder-3.0.1:$PATH
 export PATH=/usr/local/opt/ccache/libexec:$PATH
 export PATH="$HOME/miniconda/bin:$PATH"
 
